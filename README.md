@@ -13,6 +13,10 @@ $ make
 
 \# ./decryptor -p /etc/ -k mindln
 
+$ ./encryptor -f file
+
+$ ./decryptor -f file
+
 # encryptor options
 ```
 -f    encrypt a file
