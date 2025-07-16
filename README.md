@@ -46,7 +46,7 @@ default suffix is .mindln
 
 default passwd for false-login is mindln
 
-default passwd mindln, this is a key
+default passwd is mindln, this is a key
 
 # what was it tested on
 arch linux 2025-07-01, x86_64
