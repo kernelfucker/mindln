@@ -57,7 +57,7 @@ default passwd is mindln, this is a key
 # what was it tested on
 arch linux 2025-07-01, x86_64
 
-gentoo linux, x86_64
+gentoo linux, musl, x86_64
 
 # examples
 <img width="576" height="426" alt="image" src="https://github.com/user-attachments/assets/42ea47c8-f11d-4403-9a22-1494760e1447" />
