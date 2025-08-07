@@ -55,7 +55,7 @@ default passwd for false-login is mindln
 default passwd is mindln, this is a key
 
 # what was it tested on
-arch linux 2025-07-01, x86_64
+arch linux, 2025-07-01, x86_64
 
 gentoo linux, musl, x86_64
 
