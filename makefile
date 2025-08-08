@@ -1,7 +1,7 @@
 cc=clang
-cflags= -Wall -Wextra -O2 -s
-ldflags=-lcrypto -lssl
-ldflags_fl=-lcrypt
+cflags=-Wall -Wextra
+ldflags=-O2 -s -lcrypto -lssl
+ldflags_fl=-O2 -s -lcrypt
 
 all: encryptor decryptor false-login
 
